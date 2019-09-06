@@ -1,0 +1,44 @@
+body{
+    font-family: 'Hepta Slab', serif;
+}
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 10%
+  }
+
+#miami1{
+    width: 100%;
+    height: 500px;
+
+    
+}
+.marketing{
+    margin-top: 50px;
+}
+
+.brain{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EG8-rfJAHMdSSR_6DO4eCvvKm_WiofeUQ9j54MH-pkIVnkjl");
+}
+
+.end-photos{
+    height: 200px;
+    
+}
+#last-photo{
+    width: 200px;
+}
+
+  
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    font-size: 3em;
+    background-color: aliceblue;
+    color: black;
+  }
